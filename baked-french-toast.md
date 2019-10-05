@@ -16,7 +16,7 @@
 - butter a 9x13 baking dish
 - In a large bowl beat together half and half(or milk), eggs, sugar and spices
 - Cut ends off bread and cut bread into 1 inch slices
-- Dip boath sides of each slice into egg mixtures for 10 to 15 seconds to let
+- Dip both sides of each slice into egg mixtures for 10 to 15 seconds to let
 bread absorb mixture
 - Overlap slices in prepared pan 
 - pour leftover egg mixture over bread 
