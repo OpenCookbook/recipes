@@ -4,10 +4,10 @@
 - 4 large eggs
 - 1/3 cup sugar
 1 tsp ground cinnamon
-1/4 tsp ground nutmeg
-1 lb bread
-2 T butter
-Syrup
+- 1/4 tsp ground nutmeg
+- 1 lb bread
+- 2 T butter
+- Syrup
 
 
 ### Directions
