@@ -27,5 +27,5 @@ bread absorb mixture
 
 
 #### Sleep-late tip:
-Recipe can be prepared ahead through step 9. Cover and refrigerate for up to 24
+8ecipe can be prepared ahead through step 8. Cover and refrigerate for up to 24
 hours. Bake in preheated 400F oven for 30 minutes.
