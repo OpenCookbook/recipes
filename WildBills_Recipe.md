@@ -1,28 +1,24 @@
-WildBills_Recipe.txt
-
-:Author: Shawn Dooley
-:Email: shawn@shawndooley.net
-:Date: 2017-01-29 09:18
-
+# WildBills_Recipe
 
 // Borrowed from one of the results from here:
 https://answers.yahoo.com/question/index?qid=20080522054624AAuk8jo
 
+## Ingredients:
+- 5 Lbs. Minimum (One large piece preferred) Fresh Brisket (Lean) - Any brand 
+- *You may substitute the beef brisket with your choice of meat just remember to
+- keep it lean so your jerky does not get oily* 
+- 15 - 20 oz. Soy Sauce - 
+- 15 oz. Worcestershire Sauce - 
+- 15 - 20 oz. Teriyaki sauce - 
+- 2 - 4 tablespoons Dark Brown Sugar - 
+- 2 - 4 tablespoons Garlic Powder - 
+- 2 - 4 tablespoons Onion Powder - 
+- 2 - 4 teaspoons Cayenne Pepper - 
+- 5 oz. bottle Liquid Smoke - 
+- 2 - 4 oz. Dark Corn Syrup or Molasses for even more flavor - 
+- 1 - Very Sharp Knife 
 
-5 Lbs. Minimum (One large piece preferred) Fresh Brisket (Lean) - Any brand 
-*You may substitute the beef brisket with your choice of meat just remember to
-keep it lean so your jerky does not get oily* 
-15 - 20 oz. Soy Sauce - 
-15 oz. Worcestershire Sauce - 
-15 - 20 oz. Teriyaki sauce - 
-2 - 4 tablespoons Dark Brown Sugar - 
-2 - 4 tablespoons Garlic Powder - 
-2 - 4 tablespoons Onion Powder - 
-2 - 4 teaspoons Cayenne Pepper - 
-5 oz. bottle Liquid Smoke - 
-2 - 4 oz. Dark Corn Syrup or Molasses for even more flavor - 
-1 - Very Sharp Knife 
-
+## Directions:
 Add all liquid ingredients into container Now add all other ingredients into the
 container, stir frequently. Trim as much fat as possible off the brisket . It is
 the fat on the meat that will go bad not the meat. Slice the meat with the grain
