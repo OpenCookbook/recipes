@@ -1,15 +1,16 @@
-Belgian-Style Yeast Waffles
+# Belgian-Style Yeast Waffles
 
-1 1/2 cups lukewarm milk
-6 tablespoons butter, melted
-2 to 3 tablespoons maple syrup, optional
-3/4 teaspoon salt
-1 teaspoon vanilla extract
-2 large eggs
-2 cups all purpose flour
-1 1/2 teaspoons instant yeast
+## Ingredients:
+- 1 1/2 cups lukewarm milk
+- 6 tablespoons butter, melted
+- 2 to 3 tablespoons maple syrup, optional
+- 3/4 teaspoon salt
+- 1 teaspoon vanilla extract
+- 2 large eggs
+- 2 cups all purpose flour
+- 1 1/2 teaspoons instant yeast
 
-Directions:
+## Directions:
 1. Combine all of the ingredients in a large bowl, leaving room for expansion; the mixture will bubble and grow.
 2. Stir to combine; it's OK if the mixture isn't perfectly smooth.
 3. Cover with plastic wrap, and let rest at room temperature for 1 hour; the mixture will begin to bubble. You can cook the waffles at this point, or refrigerate the batter overnight to cook waffles the next day.
