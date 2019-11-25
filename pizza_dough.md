@@ -3,6 +3,7 @@
 ## Ingredients
 - 3.5 to 4 cups bread flour 
 - 1 teaspoon sugar
+- 2 teaspoon salt
 - 2.25 teaspoons dry yeast (1 packet)
 - 1.5 cups of water (110 degrees f)
 - 2 tablespoons of Olive Oil
@@ -18,7 +19,7 @@
 
 
 
- If you only want half, I did the math for you
+ If you only want half, I did the math for you:
 
 - 2 Cups flour +- 1/4 cup
 - 1/2 teaspoon sugar
