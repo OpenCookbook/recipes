@@ -1,5 +1,4 @@
-# text-cookbook
-
+# Recipes
 I got tired of looking for new recipes online, and having every one I
 find come with the life story of the person sharing it. That, and adverts. Tons
 of adverts. Simple recipes in text files with simple instructions shouldn't be
