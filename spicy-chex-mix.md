@@ -13,7 +13,6 @@
 - 2-3 tea red pepper sauce
 
 ## Directions:
-// TODO (Update this)
 Generally follow standard chex mix process
 mix it all, bake it low stirring every 15 for an hour
 
