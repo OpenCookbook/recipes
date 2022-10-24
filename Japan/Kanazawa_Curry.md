@@ -33,3 +33,9 @@
 - Add water, bouquet garni, chutney paste, canned tomatoes, garam masala, cumin, curry powder, and roux and simmer further.
 - Season with consomme granules.
 - Put rice, curry roux on a plate, shredded cabbage, and cut pork cutlet.
+- 
+
+
+
+
+
